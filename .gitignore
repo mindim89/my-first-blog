@@ -1,0 +1,5 @@
+*.pyc
+__pycache__
+under_the_sea
+db.sqlite3
+.DS_Store
